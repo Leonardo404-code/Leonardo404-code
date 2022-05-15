@@ -1,7 +1,7 @@
 # Olá, eu sou Leonardo Bispo 👋
 
 <p>
-Programador Full-Stack autodidata, Sempre fui envolvido com tecnologia desde pequeno eu me interessava construir softwares, a +2 anos estudo e trabalho com programação e apenas com muito estudo e trabalho desenvolvi meus primeiros projetos. Utilizando a stack JavaScript + Golang como ferramentas principais.
+Eu sou desenvolvedor Full-Stack autodidata, trabalho à +2 anos com desenvolvimento de aplicações Web completas, atualmente tenho maior foco na área de Backend com Golang e NodeJS mas também estou aberto a aprender novas tecnologias.
 </p>
 
 <h3>
@@ -23,9 +23,9 @@ Programador Full-Stack autodidata, Sempre fui envolvido com tecnologia desde peq
 
 <h3>Minhas redes:</h3>
 <div> 
-  <a href = "mailto:contatoleonardobispo1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardobispo1000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-bispo-006701179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/Leonardo404-code" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/leonardobispo.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
 <h3>Contribuições</h3>
