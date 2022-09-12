@@ -1,7 +1,7 @@
 # Olá, eu sou Leonardo Bispo 👋
 
 <p>
-Eu sou desenvolvedor Full-Stack autodidata, trabalho à +2 anos com desenvolvimento de aplicações Web completas, atualmente tenho maior foco na área de Backend com Golang e NodeJS mas também estou aberto a aprender novas tecnologias.
+Eu sou desenvolvedor Full-Stack autodidata, trabalho à +2 anos com desenvolvimento de aplicações Web completas, atualmente tenho maior foco na área de Backend com Golang, contudo também estou aberto a aprender novas tecnologias.
 </p>
 
 <h3>
