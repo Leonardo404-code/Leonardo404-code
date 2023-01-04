@@ -29,13 +29,3 @@ Leonardo is a Golang developer and passionate student of technology, he has year
   <a href="https://www.linkedin.com/in/leonardo-bispo-006701179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/leonardobispo.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-<h3>Contribuições</h3>
-<div>
-  <a href="https://github.com/Leonardo404-code">
-  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardo404-code&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo404-code&layout=compact&langs_count=7&theme=midnight-purple"/>
- </a>
-</div>
