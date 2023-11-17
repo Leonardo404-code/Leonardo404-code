@@ -8,7 +8,7 @@ Leonardo is a Golang developer and passionate student of technology, he has year
 
 * 🌍  I'm based in Batalha, Brazil
 * ✉️  You can contact me at [leonardobispo1000@gmail.com](mailto:leonardobispo1000@gmail.com)
-* 🚀  I'm currently working on [Grupo MContigo SL](http://mcontigo.com/)
+* 🚀  I'm currently open for work!
 * 🧠  I'm learning Clean Code
 
 ### Skills
