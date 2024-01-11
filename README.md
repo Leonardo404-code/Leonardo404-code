@@ -7,7 +7,7 @@ Software Developer
 Leonardo is a Golang developer and passionate student of technology, he has years of experience in software development, project design and helping the community.
 
 * 🌍  I'm based in Batalha, Brazil
-* ✉️  You can contact me at [leonardobispo1000@gmail.com](mailto:leonardobispo1000@gmail.com)
+* ✉️  You can contact me at [leonardobispo.dev@gmail.com](mailto:leonardobispo.dev@gmail.com)
 * 🚀  I'm currently open for work!
 * 🧠  I'm learning Clean Code
 
